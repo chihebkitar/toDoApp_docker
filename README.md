@@ -44,6 +44,7 @@ cd ..
 ```bash
 cd frontend
 ng build --prod
+(ou ng build --configuration production pour Angular 14+)
 cd ..
 ```
 
