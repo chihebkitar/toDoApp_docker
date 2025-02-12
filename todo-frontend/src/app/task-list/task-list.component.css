@@ -1,0 +1,8 @@
+.container {
+    max-width: 600px;
+    margin: 40px auto;
+  }
+  .text-decoration-line-through {
+    text-decoration: line-through;
+  }
+  
